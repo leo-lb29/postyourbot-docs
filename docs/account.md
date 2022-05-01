@@ -18,3 +18,7 @@ Pour modifier ton mot de passe (Password) remplis le formulaire fournie via ce l
 ## J'ai oublier mon mot de passe (Password)
 
 !> Fonction indisponible, contacter le Support via [discord](https://discord.io/postyourbot) ou via PostYourBot@gmail.com
+
+## Changer son adresse email
+
+!> Fonction indisponible, contacter le Support via [discord](https://discord.io/postyourbot) ou via PostYourBot@gmail.com
